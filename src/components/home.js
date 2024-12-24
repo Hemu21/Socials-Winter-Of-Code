@@ -423,7 +423,8 @@ class Home extends Component {
             <img src={"/img/logos/Devfolio_Logo.svg"} />
           </div> */}
           <div className="body-content sponsors-conatiner">
-            <h3 className="sponsors-title">OSS Companies</h3>
+            <h3 className="sponsors-title">Open Source Companies</h3>
+            <p className="sponsors-desc" >Companies supporting and contributing to open source</p>
             <br />
             <div className="community">
               {/* <div className="row">

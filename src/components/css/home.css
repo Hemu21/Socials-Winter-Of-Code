@@ -905,6 +905,13 @@ time {
   font-weight: 300;
 }
 
+.sponsors-desc{
+  font-size: 18px;
+  text-align: center;
+  font-weight: 200;
+  color: #777;
+}
+
 .sponsor-img {
   position: relative;
   width: 50%;

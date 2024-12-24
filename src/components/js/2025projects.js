@@ -1091,15 +1091,6 @@ export const projectsData2025 = [
     TechStack: ["React, Node, Express, Mongo"],
   },
   {
-    Owner: "Mohamed Marrouchi",
-    linkedin: "https://www.linkedin.com/in/mohamed-marrouchi/",
-    Name: "Hexabot.ai",
-    Description:
-      "Hexabot is an open-source AI chatbot / agent builder. I allows you to create and manage multi-channel and multilingual chatbots / agents with ease.",
-    Repo: "https://github.com/Hexastack/Hexabot",
-    TechStack: ["NestJS, Node.js, React, Typescript, MongoDB, Python"],
-  },
-  {
     Owner: "S G Sumanth",
     linkedin: "www.linkedin.com/in/s-g-sumanth-b8a969277",
     Name: "SocialSync",
