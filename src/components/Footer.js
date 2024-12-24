@@ -73,7 +73,7 @@ const currentYear = new Date().getFullYear();
 
               <div className="f-logo">
                 <img
-                  src={"./img/logos/74243_Social_flat_DT_08.png"}
+                  src={"./img/logos/SWOC_W_Black.png"}
                   alt="logo"
                   className="logo-footer"
                 />
