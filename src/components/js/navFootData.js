@@ -23,6 +23,7 @@ export const navItems = [
   title: "Contact Us",
   url: "/contact",
 },
+  
 ];
 
 export const socialMedia = [
