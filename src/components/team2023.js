@@ -58,14 +58,14 @@ class Team2023 extends Component {
     const teamMembers = [
       {
         name: "Abhishek Mankuskar",
-        role: "Founding Organizer SWOC",
+        role: "Creator & Founding Organizer SWOC",
         linkedin: "https://www.linkedin.com/in/abhishek-mankuskar-03790018b/",
         github: "https://github.com/abhishekmankuskar",
         image: abhishekMankuskar,
       },
       {
         name: "Jay Saadana",
-        role: "Founder Socials",
+        role: "Creator Social & Devrel Lead India @ Quira",
         linkedin: "https://www.linkedin.com/in/jaysaadana",
         github: "https://github.com/jaysaadana",
         image: jaySaadana,
