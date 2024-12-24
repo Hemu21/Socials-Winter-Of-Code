@@ -7,20 +7,21 @@ import event4 from "../img/Events2023/swoc_speaker4.png";
 import event3 from "../img/Events2023/swoc_speaker3.jpg";
 import event2 from "../img/Events2023/swoc_speaker2.jpg";
 import hack2skill from "../img/hack2skill_logo.jpg";
-import whereUElevatelogo from "../img/logos/where-u-elevate.png";
+
 import endless from "../img/logos/Endless.jpg";
 import codingninja from "../img/coding-ninja.jpg";
 import codingninja1 from "../img/coding-ninja-1.jpeg";
 import gmc from "../img/GMC LogoS.png";
+import devbtn from "../img/devnom.png";
 
 export const registerItems = [
-  {
+ {
     cardTitle: "Project",
     cardText: `All open-source organizations, Project maintainers are welcome to 
         mentor budding open-source enthusiasts from all different 
         backgrounds. Find students and professionals that have skills and share your 
         vision.`,
-    applyLink: "#",
+    applyLink: "https://docs.google.com/forms/d/e/1FAIpQLSepqh8_PwRjQo9GS3vIROsLPyHt1Q9xHR9LH1Na9IDsJOQH-g/viewform?usp=sf_link",
     // applyLink: "https://forms.gle/eyQM8eJeSWKr3tCD6",
     applyStatus: "Apply Here",
   },
@@ -29,7 +30,7 @@ export const registerItems = [
     cardText: `Whether you’re a newbie or a seasoned professional, we have a 
         space for everyone. Apply now to become a part of something 
         exciting!`,
-    applyLink: "#",
+    applyLink: "https://socialwinterofcode.devfolio.co",
     applyStatus: "Apply Here",
   },
   {
@@ -38,7 +39,7 @@ export const registerItems = [
         beacon of light for our participants! As a mentor, you will guide 
         one team with your insights and experience all through their 
         Open Source & Hackathon journey.`,
-    applyLink: "#",
+    applyLink: "https://docs.google.com/forms/d/e/1FAIpQLSfcKoL2xqEAvU0jz2Xw9aSFFlwBW_JzwM3Z4MfUPrdxxq8bag/viewform?usp=sf_link",
     // applyLink: "https://docs.google.com/forms/d/19qbZg1a_DSUAKizSxO_8RoAJCCu9jd-Jms17MmAWP4k/edit?ts=63427042",
     applyStatus: "Apply Here",
   },
@@ -79,7 +80,7 @@ export const timelineItems = [
     timelineText: `SWoC Begins`,
   },
   {
-    timelineDate: "28 Feb 2025",
+    timelineDate: "1 March 2025",
     timelineText: `SWoC Ends`,
   },
   {
@@ -204,21 +205,93 @@ export const Sponsors = [
 ];
 
 export const CommunityPartners = [
-  // {
-  //   sponsorLink: "https://www.linkedin.com/company/mlsafabtech/",
-  //   sponsorImg: "./img/logos/febtech.png",
-  // },
-  // {
-  //   sponsorLink: "/",
-  //   sponsorImg: "./img/logos/gdscldce.png",
-  // },
-  // {
-  //   sponsorLink: "/",
-  //   sponsorImg: "./img/logos/SOSTech.png",
-  // },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/01.png",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/02.jpg",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/03.jpg",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/04.png",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/05.jpg",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/06.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/07.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/08.svg",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/09.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/10.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/11.jpg",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/12.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/13.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/14.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/16.jpg",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/17.jpg",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/18.png",
+  },
+ {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/19.jpg",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/20.jpg",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/21.png",
+  },
+  {
+    sponsorLink: "/",
+    sponsorImg: "./img/logos/22.png",
+  },
   
-  
-  
+
+
 ];
 
 export const PlatformPartners = [
@@ -226,6 +299,10 @@ export const PlatformPartners = [
   //   sponsorLink: "/",
   //   sponsorImg: hack2skill,
   // },
+ {
+  sponsorLink : "/",
+  sponsorImg: devbtn,
+ },
 ];
 
 export const InnovationPartners = [
